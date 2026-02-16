@@ -4,6 +4,7 @@
 I successfully completed the Google Data Analytics Professional Certificate program offered by Google through Coursera.
 This program provided practical, hands-on experience in the complete data analysis lifecycle — from understanding business problems to delivering actionable insights.
 
+ 
 What I Learned
 
 Asking effective business questions and defining analytical goals
