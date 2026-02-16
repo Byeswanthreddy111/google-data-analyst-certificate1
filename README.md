@@ -1,11 +1,11 @@
-# google-data-analyst-certificate
+# GOOGLE DATA ANALYST CERTIFICATE
 <img width="1402" height="1060" alt="Screenshot 2026-02-16 190054" src="https://github.com/user-attachments/assets/43a28113-0ffb-4319-961a-c180b90977dc" />
 
 I successfully completed the Google Data Analytics Professional Certificate program offered by Google through Coursera.
 This program provided practical, hands-on experience in the complete data analysis lifecycle — from understanding business problems to delivering actionable insights.
 
  
-What I Learned
+WHAT I LEARNED
 
 Asking effective business questions and defining analytical goals
 
@@ -20,3 +20,7 @@ Data visualization using Tableau
 Basic statistical analysis using spreadsheets and R programming
 
 Communicating insights through dashboards and reports
+
+TOOLS AND TECHNOLOGIES :
+
+Excel / Google Sheets • SQL • Tableau • R • Data Cleaning • Data Visualization • EDA
